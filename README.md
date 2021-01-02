@@ -1,2 +1,5 @@
 # Learning-Rust
-Repository containing the simple programs I made while learning Rust programming language.
+Repo contains the programs and assignments solutions I made while learning Rust programming language.
+
+
+&copy; 2020 Muhammad Sameem
